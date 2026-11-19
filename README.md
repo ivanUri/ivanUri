@@ -34,8 +34,6 @@ My main focus is **Koko**, an open-source, AI-first browser runtime built with *
 | **[Koko Core](https://github.com/ivanUri/koko-core)** | Lightweight, AI-first headless browser runtime for programmable web execution, crawling, and automation. |
 | **[Koko SDK](https://github.com/ivanUri/koko-sdk)** | Developer-facing SDK for interacting with the Koko runtime. |
 | **[Koko Observatory](https://github.com/ivanUri/koko-observatory)** | Runtime observability and inspection UI with network timelines, execution graphs, and telemetry. |
-| **[Light Browser](https://github.com/ivanUri/light-browser)** | Browser-related experiments and development. |
-| **[zig-v8-fork](https://github.com/ivanUri/zig-v8-fork)** | Zig and V8 integration work. |
 
 ## ⚙️ Technologies & interests
 
