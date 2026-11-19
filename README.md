@@ -4,7 +4,7 @@
 
 ### Building browser infrastructure for the AI era.
 
-**Independent developer from Vietnam 🇻🇳**  
+**Independent developer
 Browser internals · AI-native automation · Systems programming · Reverse engineering
 
 [![GitHub followers](https://img.shields.io/github/followers/ivanUri?style=flat-square&logo=github&label=Followers)](https://github.com/ivanUri?tab=followers)
