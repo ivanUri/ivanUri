@@ -24,7 +24,6 @@ My main focus is **Koko**, an open-source, AI-first browser runtime built with *
 - 🔭 **Currently building:** [Koko Core](https://github.com/ivanUri/koko-core)
 - 🧠 **Exploring:** browser engines, web standards, runtime correctness, and reverse engineering
 - 🛠️ **Working with:** Zig, V8, TypeScript, Node.js, C/C++, and browser protocols
-- 🌏 **Based in:** Vietnam
 - 💬 **Let's talk about:** browser internals, CDP, AI agents, and developer tooling
 
 ## 🚀 Featured work
